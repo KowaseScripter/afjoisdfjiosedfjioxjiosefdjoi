@@ -80,9 +80,9 @@ plr.CharacterAdded:Connect(noEndlagSetup)
 
 if not getgenv().DisableNotification then
 	stgui:SetCore("SendNotification", {
-		Title = "[nigga loaded] made by spyiess",
+		Title = "Thx for buying",
 		Icon = "rbxassetid://13333189503",
-		Text = "idi nahui suchara!",
+		Text = "Enjoy!",
 		Duration = 5,
 		Button1 = "Dismiss",
 		Callback = function() end
